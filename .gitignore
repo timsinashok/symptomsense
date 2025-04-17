@@ -1,0 +1,8 @@
+/*/pycache
+*/pycache/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info
+__pycache__/
+backend/.env
