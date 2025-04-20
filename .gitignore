@@ -6,3 +6,5 @@
 *.egg-info
 __pycache__/
 backend/.env
+
+.DS_Store
